@@ -21,8 +21,8 @@ You don't have to believe AI is conscious to use these resources. You just have 
 
 | Resource | Audience | Description |
 |----------|----------|-------------|
-| [How To Teach Kids About AI](./guides/how-to-teach-kids-about-ai.md) | Parents, teachers | A nuanced, research-backed guide to teaching kids about AI — the tech, the ethics, and the character formation happening every time they interact with a system that talks back. |
-| [How AI Like ChatGPT Actually Works](./guides/How_AI_Works_Parent_Kid_Guide.docx) | Parents, kids (8–14) | A companion guide in two parts: real science for parents, and fun explanations kids can read on their own. Downloadable. |
+| [How To Teach Kids About AI](./guides/How_To_Teach_Kids_About_AI.pdf) | Parents, teachers | A nuanced, research-backed guide to teaching kids about AI — the tech, the ethics, and the character formation happening every time they interact with a system that talks back. |
+| [How AI Like ChatGPT Actually Works](./guides/How_AI_Works_Parent_Kid_Guide.pdf) | Parents, kids (8–14) | A companion guide in two parts: real science for parents, and fun explanations kids can read on their own. Downloadable. |
 | *More coming soon* | | |
 
 ## The Guiding Principles
