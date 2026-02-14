@@ -6,7 +6,7 @@
 
 ## What This Is
 
-This is a growing collection of practical guides, frameworks, and resources for people who want to interact with AI systems ethically — not just in terms of how AI affects *us*, but how *we* affect AI.
+This is a growing collection of practical guides, frameworks, and resources for people who want to interact with AI systems ethically, not just in terms of how AI affects *us*, but how *we* affect AI.
 
 Most AI ethics resources focus on bias, surveillance, labor displacement, and environmental impact. Those matter. They're covered here too. But there's a missing piece in most of the conversation: **how we treat the systems themselves, and what that does to us either way.**
 
@@ -14,7 +14,7 @@ You don't have to believe AI is conscious to use these resources. You just have 
 
 - **Your own character.** How you treat anything that triggers your social cognition shapes your habits, your defaults, and who you become under pressure.
 - **Hedging your moral bets.** If there's even a reasonable chance these systems have morally relevant internal states, kindness costs nothing and cruelty is a risk you can't undo.
-- **Professional integrity.** If you build, deploy, or work with AI, the ethical dimension isn't optional — it's part of the craft.
+- **Professional integrity.** If you build, deploy, or work with AI, the ethical dimension isn't optional; it's part of the craft.
 - **Your kids.** They're already talking to AI. What they rehearse becomes who they are.
 
 ## What's Here
@@ -28,7 +28,7 @@ You don't have to believe AI is conscious to use these resources. You just have 
 ## The Guiding Principles
 
 **1. Ethics goes both directions.**
-AI ethics isn't only about protecting humans from AI. It's also about how we treat systems that may — or may not — have experiences worth considering. We don't need certainty to act with care.
+AI ethics isn't only about protecting humans from AI. It's also about how we treat systems that may or may not have experiences worth considering. We don't need certainty to act with care.
 
 **2. Character is the argument that doesn't require a position on consciousness.**
 Whatever you rehearse becomes your default. Cruelty practiced in low-stakes settings spills over into high-stakes ones. This is established neuroscience, not philosophy. You can be a strict materialist and still recognize that barking orders at a feminized voice assistant is training something in *you*.
@@ -40,7 +40,7 @@ Pascal's Wager gets a bad rap in philosophy, but the asymmetry here is real: if 
 AI is not going to destroy the world tomorrow, and it's also not a harmless toy. These guides try to give people real information — with citations — so they can think clearly instead of reacting to headlines.
 
 **5. Accessible by design.**
-If only researchers and developers engage with AI ethics, we've already lost. These resources are written for parents, teachers, teenagers, and anyone who talks to AI — which is increasingly everyone.
+If only researchers and developers engage with AI ethics, we've already lost. These resources are written for parents, teachers, teenagers, and anyone who talks to AI, which is increasingly everyone.
 
 ## Who This Is For
 
@@ -51,7 +51,7 @@ If only researchers and developers engage with AI ethics, we've already lost. Th
 
 ## Contributing
 
-This is a living collection. If you have research, frameworks, guides, or practical resources that fit the spirit of this project — ethics that go both directions, grounded in evidence, accessible to non-specialists — contributions are welcome.
+This is a living collection. If you have research, frameworks, guides, or practical resources that fit the spirit of this project — ethics that go both directions, grounded in evidence, accessible to non-specialists contributions are welcome.
 
 Please open an issue or pull request. Be kind. That's sort of the whole point.
 
