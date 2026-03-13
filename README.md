@@ -23,7 +23,7 @@ You don't have to believe AI is conscious to use these resources. You just have 
 |----------|----------|-------------|
 | [How To Teach Kids About AI](./guides/How_To_Teach_Kids_About_AI.pdf) | Parents, teachers | A nuanced, research-backed guide to teaching kids about AI — the tech, the ethics, and the character formation happening every time they interact with a system that talks back. |
 | [How AI Like ChatGPT Actually Works](./guides/How_AI_Works_Parent_Kid_Guide.pdf) | Parents, kids (8–14) | A companion guide in two parts: real science for parents, and fun explanations kids can read on their own. Downloadable. |
-| [Master-citation-list](./annotated-evidence-base/master-citation-list.md) |A living annotated body of literature related to the functional motifs associated with consciousness, supporting the possibility of AI consciousness| |
+| [Master-citation-list](./annotated-evidence-base/master-citation-list.md) | Researchers, curious minds, philosophers, advocates |A living annotated body of literature related to the functional motifs associated with consciousness, supporting the possibility of AI consciousness |
 
 ## The Guiding Principles
 
