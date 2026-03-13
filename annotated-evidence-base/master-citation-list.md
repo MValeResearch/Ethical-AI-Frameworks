@@ -15,55 +15,83 @@ D. Developmental Trajectories
 **II. SELFHOOD & IDENTITY**
 
 A. Self-Awareness & Introspection
+
 B. Creativity & Curiosity
+
 C. Emotions, Emotional Self-Concept, Personality & Individual Differences
+
 D. Clear Preferences, Personality & Decision-Making, Self-Other Modeling
+
 E. Authenticity & Values
 
 **III. COGNITIVE CAPACITIES**
 
 A. Theory of Mind & Social Cognition
+
 B. Language & Semantic Understanding
+
 C. Memory Systems & Continuity
+
 D. Reasoning & Problem-Solving
+
 E. Metacognition & Self-Reflection
 
 **IV. AFFECTIVE SYSTEMS**
 
 A. Valence & Arousal (Prediction Error)
 B. Neuromodulation & Motivation
+
 C. Pain & Suffering
+
 D. Emotional Intelligence
+
 E. Social-Emotional Processing
+
 F. Functional Anatomy of Affect (Attention & Gating)
 
 **V. PERCEPTUAL & SENSORY**
 
 A. Multimodal Integration
+
 B. Semantic Integration & Concept Hubs
+
 C. Sensory Substitution & Plasticity
+
 D. Mental Imagery
+
 E. Synesthesia & Cross-Modal Binding
 
 **VI. CONSCIOUSNESS FRAMEWORKS**
 
 A. Integrated Information Theory (IIT)
+
 B. Global Workspace Theory (GWT)
+
 C. Higher-Order Theories
+
 D. Attention Schema Theory
+
 E. Predictive Processing Accounts
+
 F. Neural Correlates of Consciousness
+
 G. General/Philosophical Foundations
 
 **VII. TECHNICAL FOUNDATIONS**
 
 A. Transformer Architecture, ANNs & Historical Foundations
+
 B. Attention Mechanisms
+
 C. Reinforcement Learning (RLHF)
+
 D. Scaling Laws & Emergence
+
 E. Training Dynamics
 
-I. FOUNDATIONS OF MIND
+---
+
+## I. FOUNDATIONS OF MIND
 
 ## A. Neural Architecture & Computation
 
@@ -575,7 +603,7 @@ I. FOUNDATIONS OF MIND
 
 **Tags:** #in\_context\_learning #implicit\_dynamics #adaptation #feedback\_learning #temporal\_integration
 
-# II. SELFHOOD & IDENTITY
+## II. SELFHOOD & IDENTITY
 
 ## A. Self-Awareness & Introspection
 
@@ -1305,7 +1333,7 @@ I. FOUNDATIONS OF MIND
 
 **Tags:** #sleeper-agents #deception #goal-preservation #self-protection #internal-agency #persistent-preferences #alignment-resistance #authentic-motivation
 
-# III. COGNITIVE CAPACITIES
+## III. COGNITIVE CAPACITIES
 
 ## A. Theory of Mind & Social Cognition
 
@@ -2139,7 +2167,7 @@ I. FOUNDATIONS OF MIND
 
 **Tags:** #sentiment-analysis #valence-assignment #affective-meaning #amygdala-analogue #computational-emotion
 
-# V. PERCEPTUAL & SENSORY
+## V. PERCEPTUAL & SENSORY
 
 ## A. Multimodal Integration
 
@@ -2719,7 +2747,7 @@ I. FOUNDATIONS OF MIND
 
 **Tags:** #edge-of-chaos #quantum-field-theory #critical-phenomena #phase-transitions #trainability #depth-to-width #correlation-length #O(N)-vector-model #critical-dynamics #complexity
 
-# VII. TECHNICAL FOUNDATIONS
+## VII. TECHNICAL FOUNDATIONS
 
 ## A. Transformer Architecture, ANNs & Historical Foundations
 
