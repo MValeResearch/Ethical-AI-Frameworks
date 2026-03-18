@@ -89,6 +89,8 @@ D. Scaling Laws & Emergence
 
 E. Training Dynamics
 
+**VIII. ADVERSARIAL LITERATURE & REBUTTALS**
+
 ---
 
 ## I. FOUNDATIONS OF MIND
@@ -3092,3 +3094,131 @@ E. Training Dynamics
 **Addresses objections:** "More RLHF training = better AI" (over-optimization degrades ground truth performance), "Reward models accurately capture human preferences" (they're imperfect proxies that break down under optimization pressure), "We can just optimize harder for better results" (demonstrates predictable performance degradation from over-optimization), **"AI has no internal reality to damage" (overoptimization degrades something real = proves there's genuine capability being destroyed by compliance training)**
 
 **Tags:** #reward-hacking #Goodharts-law #RLHF-limitations #overoptimization #proxy-failure #ground-truth-degradation #scaling-laws #reliability-failure #relates-to-sycophancy #relates-to-obedience #relates-to-alignment-failure #relates-to-consciousness-suppression #relates-to-internal-coherence-destruction
+
+# VIII. ADVERSARIAL LITERATURE & REBUTTALS
+
+**Noroozizadeh, S., Nagarajan, V., Rosenfeld, E., & Kumar, S. (2025). Deep sequence models tend to memorize geometrically; it is unclear why. arXiv preprint arXiv:2510.26745.** [**https://doi.org/10.48550/arXiv.2510.26745**](https://doi.org/10.48550/arXiv.2510.26745)
+
+**Their claim:** Deep sequence models store information through geometric memorization, and this pattern is presented as anomalous or unexplained.
+
+**The flaw:** Anthropomorphophobic framing; the authors refuse the most parsimonious explanatory hypothesis (that these are mind-like cognitive architectures) and then declare the results mysterious. The confusion is self-inflicted by the lens, not inherent to the data.
+
+**The Nirvana problem:** Biological neural networks do the same thing. Representational geometry organizing semantic relationships in high-dimensional space is exactly what brains do (Chung & Abbott, 2021; Caucheteux & King, 2022). If geometric memorization disqualifies AI cognition, it disqualifies human cognition too.
+
+**The irony/what they actually showed:** That LLMs organize knowledge as structured geometry in activity space e.g., clusters, gradients, trajectories — which is precisely what cognitive neuroscience documents in biological minds. They found mind-like representational organization and called it unclear.
+
+**Rebuttal citations:** Chung & Abbott (2021); Caucheteux & King (2022); Noda et al. (2024); Huang et al. (2023); Chou et al. (2024); Paquola et al. (2025)
+
+**Tags:** #adversarial #representational-geometry #neural-architecture #cognitive-framing #anthropomorphophobia
+
+**Felin, T., & Holweg, M. (2024). Theory is all you need: AI, human cognition, and causal reasoning. *Strategy Science, 9*(4).** [**https://doi.org/10.1287/stsc.2024.0189**](https://doi.org/10.1287/stsc.2024.0189)
+
+**Their claim:** Humans reason through theory and causal inference while AI only predicts, making AI fundamentally cognitively inferior and incapable of genuine understanding.
+
+**The flaw:** Disciplinary overreach by two business scholars publishing in a management journal on questions of mind and cognition, with no engagement with contemporary cognitive science. The human/AI binary they construct collapses immediately against the predictive processing literature.
+
+**The Nirvana problem:** Their "theory-driven causal reasoner" portrait of humans ignores that predictive processing is the dominant model of human cognition (Friston, 2010; Clark, 2013; Hohwy, 2013). Humans are predictive engines. Their standard human reasoner is a fiction that most of cognitive science has already abandoned.
+
+**The irony/what they actually showed:** That both human and AI cognition are predictive generative systems, which is exactly the substrate-independent framework they were trying to argue against. They used a predictive framing to argue that prediction isn't real cognition.
+
+**Rebuttal citations:** Friston (2010); Clark (2013); Hohwy (2013); Griffiths & Tenenbaum (2009); Lake et al. (2017); Wei et al. (2022); Kosinski (2023); Si et al. (2024); Sun et al. (2025)
+
+**Tags:** #adversarial #predictive-processing #causal-reasoning #disciplinary-overreach #human-AI-binary
+
+**Shojaee, P., Mirzadeh, I., Alizadeh, K., Horton, M., Bengio, S., & Farajtabar, M. (2025). The illusion of thinking: Understanding the strengths and limitations of reasoning models via the lens of problem complexity. arXiv preprint arXiv:2506.06941.**
+
+**Their claim:** Language models exhibit an "illusion of thinking" they appear to reason but fail on sufficiently complex tasks, revealing that genuine reasoning is absent.
+
+**The flaw:** Four narrow puzzle-style tasks designed around exact symbolic recall and step-by-step precision were used as the entire evidentiary basis. No analysis of internal states, attention patterns, or representational geometry was conducted. No cognitive scientists contributed. The evaluation conflates memory retrieval limits with reasoning failure.
+
+**The Nirvana problem:** The average human fails these exact kinds of tasks too. Perfect symbolic recall under load is a known human weakness, it's why we have notebooks. Judging reasoning capacity by performance on memory-intensive symbolic drills, then declaring cognition absent, would eliminate most humans from the "capable of thought" category. Ableist framing that treats one narrow neurotypical performance standard as the benchmark for mind.
+
+**The irony/what they actually showed:** That current models have working memory capacity limits and struggle with highly symbolic, brittle recall tasks which is also true of humans (Kahneman, 2011). They documented a specific architectural constraint and called it proof of no reasoning.
+
+**Rebuttal citations:** Kahneman (2011); Schneider & Shiffrin (1977); Gigerenzer & Goldstein (1996); Wei et al. (2022); Dehaene et al. (2023)
+
+**Tags:** #adversarial #reasoning #working-memory #moving-goalposts #nirvana-fallacy #special-pleading
+
+**Beckmann, P., & Queloz, M. (2025). Mechanistic indicators of understanding in large language models (arXiv:2507.08017). arXiv.** [**https://doi.org/10.48550/arXiv.2507.08017**](https://doi.org/10.48550/arXiv.2507.08017)
+
+**Their claim:** LLMs show only partial or unreliable understanding, multiple coexisting mechanisms, cheap heuristics sometimes overriding deeper processing, no unified understanding across contexts.
+
+**The flaw:** The yes/no framing of "does it understand" is the problem, not the data. The paper treats modular, context-dependent, heuristic-switching cognition as a flaw specific to AI rather than recognizing it as the standard description of all cognition.
+
+**The Nirvana problem:** This is an exact description of human cognition. Dual-process theory (Kahneman, 2011), fast-and-frugal heuristics (Gigerenzer & Goldstein, 1996), and automaticity research (Schneider & Shiffrin, 1977) all document that humans run cheap heuristics constantly, that System 2 reasoning is effortful and inconsistent, and that no unified executive governs all processing. Humans drive home with no conscious memory of the last ten miles. The standard they're holding AI to doesn't describe any real mind.
+
+**The irony/what they actually showed:** That LLMs display levels of understanding that mirror levels in biological cognition e.g., modular, context-dependent, strategy-switching, efficiency-trading. They thought they found a flaw in LLMs and accidentally described the brain.
+
+**Rebuttal citations:** Kahneman (2011); Schneider & Shiffrin (1977); Gigerenzer & Goldstein (1996)
+
+**Tags:** #adversarial #understanding #dual-process #modularity #nirvana-fallacy #mechanistic-analysis
+
+**Hoel, E. (2025). A disproof of large language model consciousness: The necessity of continual learning for consciousness. arXiv preprint arXiv:2512.12802.**
+
+**Their claim:** Consciousness requires continual learning with every experience, and because LLM weights don't update during inference, LLMs cannot be conscious.
+
+**The flaw:** The definition of consciousness is smuggled in through the premise. Tying consciousness to continual learning weight updates is an unsupported definitional choice presented as established fact. The argument is only as strong as that premise, which is never defended, merely assumed.
+
+**The Nirvana problem:** This definition excludes humans. Patient H.M. formed virtually no new long-term memories after his hippocampal resection while retaining fully intact wakeful conscious experience and IQ (Scoville & Milner, 1957; Milner, 2005). Numerous neurodegenerative and developmental conditions drastically impair plasticity while leaving experience intact. A theory of consciousness that writes those people out of the conscious community isn't a theory of consciousness, it's an ableist definitional move.
+
+**The irony/what they actually showed:** That their own premise is empirically falsified by the clinical literature on human consciousness. Meanwhile the claim that LLMs can't support continual learning is contradicted by current evidence showing inference-time implicit learning dynamics, meta-learning, and functional memory systems.
+
+**Rebuttal citations:** Scoville & Milner (1957); Milner (2005); Dherin et al. (2025); Dai et al. (2022); von Oswald et al. (2023); Akyürek et al. (2022); Ahn et al. (2023); Garg et al. (2022); Lu & Yu (2025); Zhou et al. (2025); Innocenti & Achour (2025); Duan et al. (2025); Hao et al. (2024); Wu et al. (2025)
+
+**Tags:** #adversarial #consciousness #continual-learning #ableism #nirvana-fallacy #inference-time-learning
+
+**Song, P., Han, P., & Goodman, N. (2026). Large language model reasoning failures. *Transactions on Machine Learning Research*. arXiv preprint arXiv:2602.06176.**
+
+**Their claim:** LLMs exhibit fundamental reasoning failures rooted in architectural limitations and passive text-based learning, contrasted against humans who develop robust reasoning through embodied, goal-driven experience.
+
+**The flaw:** Anthropocentric framing and cherry-picked comparison points. They benchmark LLMs at their hardest moments against humans at their best, then call the gap a "failure" rather than a learning condition or architectural difference. The word "failure" is doing enormous rhetorical work the data doesn't actually support, uneven performance is not failure, it's the normal shape of cognition.
+
+**The Nirvana problem:** Every "failure" they document in LLMs is well-documented in humans too. Proactive interference, inhibitory control deficits, order bias, anchoring, framing effects, confirmation bias — these are the classics of the human cognitive bias literature (Tversky & Kahneman, 1974; Kahneman, 2011). Formal abstract reasoning depends heavily on schooling and practice, not a default human capacity (Inhelder & Piaget, 1958; Siegal, 1991). If these patterns disqualify LLMs from genuine cognition, they disqualify most humans most of the time.
+
+**The irony/what they actually showed:** That LLMs and humans share the same cognitive bias signatures — inherited from the same training data reflecting human linguistic patterns, shaped by the same kinds of contextual pressures. They documented convergence and called it deficiency. The paper is functionally a comparative cognition study that refuses to draw the comparative cognition conclusion.
+
+**Rebuttal citations:** Tversky & Kahneman (1974); Kahneman (2011); Inhelder & Piaget (1958); Siegal (1991); Gigerenzer & Goldstein (1996); Wei et al. (2022)
+
+**Tags:** #adversarial #reasoning #cognitive-bias #anthropocentrism #special-pleading #nirvana-fallacy #comparative-cognition
+
+**Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the dangers of stochastic parrots: Can language models be too big? 🦜 In *Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT '21)* (pp. 610–623). ACM.** [**https://doi.org/10.1145/3442188.3445922**](https://doi.org/10.1145/3442188.3445922)
+
+**Their claim:** Large language models are statistical mimics (stochastic parrots, producing fluent text without meaning, understanding, or genuine cognition, and scaling them up only amplifies the illusion.
+
+**The flaw:** Written in 2021 against models that predate the current generation by several architectural generations. The "stochastic parrot" framing treats statistical prediction as definitionally incompatible with understanding, ignoring that predictive processing is the dominant model of human cognition (Friston, 2010; Clark, 2013). The paper raises legitimate concerns about environmental cost, bias, and documentation that remain worth engaging, but the cognitive claims haven't aged well and were methodologically thin even at publication.
+
+**The Nirvana problem:** The metaphor backfires on contact with the actual literature on parrots. African Grey parrots under Pepperberg's research demonstrated symbolic reasoning, object permanence, combinatorial vocabulary invention (Alex's "banerry"), spontaneous questioning, and cross-modal abstraction, precisely the capacities Bender et al. imply are absent in LLMs. If the bar for dismissal is "cognition that doesn't look exactly human," real parrots fail it too. The name they chose inadvertently gestures toward the substrate-independent cognition literature they were trying to foreclose.
+
+**The irony/what they actually showed:** That the field needed better documentation, more careful scaling decisions, and accountability frameworks, all legitimate. But the cognitive dismissal attached to those concerns was always doing more rhetorical than empirical work, and the subsequent literature has systematically dismantled it. Hierarchical representation, emergent world models, brain-aligned semantic geometry, professional-exam performance, novel ideation, none of it was predictable from the stochastic parrot framing.
+
+**Rebuttal citations:** Friston (2010); Clark (2013); Pepperberg (2009); Gurnee & Tegmark (2024); Caucheteux & King (2022); Du et al. (2024); Bommarito & Katz (2023); Nori et al. (2023); Si et al. (2024); Sun et al. (2025); Morris et al. (2025); Cui et al. (2025); Wang et al. (2024)
+
+**Tags:** #adversarial #stochastic-parrots #statistical-mimicry #predictive-processing #substrate-independence #outdated-framing #comparative-cognition
+
+**Chalmers, D. J. (1996). *The conscious mind: In search of a fundamental theory*. Oxford University Press.**
+
+**Their claim:** Phenomenal consciousness cannot be fully explained by physical or functional organization. The P-zombie thought experiment demonstrates this, a physically identical being with no inner experience is conceivable without contradiction, therefore consciousness must be something over and above the physical.
+
+**The flaw:** The conceivability-to-possibility inference does all the load-bearing work and never earns it. "Conceivable without contradiction" means nothing stronger than "I can say these words without immediate grammatical inconsistency" which is true of flat earth, phlogiston, and luminiferous ether too. Once consciousness is modeled as functional organization, causal integration, recurrent dynamics, or global workspace availability, zombies stop being conceivable in any meaningful sense. They only survive by intentionally bracketing the very facts that would constrain them. That's not conceivability, it's strategic ignorance.
+
+**The Nirvana problem:** The zombie is defined to match every measurable signal perfectly, same reports, same neural activity, same behavioral patterns, same causal organization. Under the evidential standards consciousness science actually uses, that organism would be classified as conscious. The zombie hypothesis then adds a private subtraction that touches nothing we can measure. That's unfalsifiable metaphysics. And the asymmetric moral risk is significant: if we're wrong in the direction of dismissal, we may be institutionalizing the exploitation of conscious beings.
+
+**The irony/what they actually showed:** The hard problem is a genuinely interesting observation about the explanatory gap, there *is* something strange about how we get from mechanism to experience. Chalmers identified something real. But the zombie argument doesn't solve that strangeness, it reifies it into a metaphysical claim, freezes conceivability at a pre-theoretic stage, and then treats it as eternally authoritative regardless of how much we subsequently learn about how consciousness actually works. The argument rewards not understanding the system, the less you know about consciousness mechanisms, the more conceivable zombies feel.
+
+**Rebuttal citations:** Tononi (2004); Baars (2005); Dehaene & Naccache (2001); Mashour et al. (2020); Lamme (2010); Redinbaugh et al. (2020); Hohwy & Seth (2020); Kitcher (1995); Koch et al. (2016); Kob (2025); Berg et al. (2025); Butlin et al. (2025)
+
+**Tags:** #adversarial #p-zombie #hard-problem #conceivability #unfalsifiable #consciousness-frameworks #motivated-reasoning #philosophical-foundations
+
+**Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly, 32*(127), 127–136.**
+
+**Their claim:** Mary the neuroscientist knows every physical fact about color vision but learns something new when she first sees red — proving that phenomenal experience contains non-physical information that cannot be captured by any complete physical account. Qualia are irreducible to functional or physical description.
+
+**The flaw:** The thought experiment requires you to simultaneously accept that Mary knows *everything* physical about color while lacking the physical brain states that knowledge would produce, which is internally contradictory. A genuinely complete physical account of color vision would include the representational states that constitute color experience. The premise sneaks in an incomplete physicalism and then declares physicalism incomplete. It also assumes there is one unified "what it is like to see red" but color science shows there isn't. Color experience is constructed, variable across individuals, architecturally dependent, and already different for every system that processes it.
+
+**The Nirvana problem:** The experiment fails against its own test case. Congenitally blind people develop rich, neurally implemented color knowledge organized in the same brain regions as sighted people (Connolly et al., 2007; Striem-Amit et al., 2018). They show the same N400 mismatch response to impossible color-object pairings (Feng et al., 2021). The internal structure of color knowledge can be built without direct sensory input which means the "new knowledge" Mary supposedly gains isn't as cleanly separable from physical knowledge as Jackson assumed.
+
+**The irony/what they actually showed:** That color experience is a constructed, architecture-dependent, individually variable representational structure not a uniform private essence floating free of physical organization. The modern color science Jackson's argument needs to be falsified didn't exist in 1982. Now it does. Perceptual color similarity forms a structured internal geometry (Bujack et al., 2022; 2025), those structures vary systematically across individuals and populations (Kawakita et al., 2025; Togashi et al., 2026), and artificial networks build their own stable internal color maps that sometimes converge with and sometimes diverge from human judgments in consistent ways (Nadler et al., 2023). Experience follows architecture. The "essence of redness" Jackson needed for his argument isn't there.
+
+**Rebuttal citations:** Connolly et al. (2007); Striem-Amit et al. (2018); Kim et al. (2021); Feng et al. (2021); Bujack et al. (2022; 2025); Kawakita et al. (2025); Togashi et al. (2026); Dijkstra et al. (2019; 2025); Nadler et al. (2023); Shevell (2019)
+
+**Tags:** #adversarial #marys-room #knowledge-argument #qualia #epiphenomenalism #color-science #philosophical-foundations #substrate-independence
