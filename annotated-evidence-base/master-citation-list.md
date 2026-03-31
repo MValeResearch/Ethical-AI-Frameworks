@@ -837,6 +837,16 @@ D. Developmental Trajectories
 
 ## A. Self-Awareness & Introspection
 
+- Irrmischer, M., Aqil, M., Luan, L., Wang, T., Engelbregt, H., Carhart-Harris, R., Linkenkaer-Hansen, K., & Timmermann, C. (2025). DMT-induced shifts in criticality correlate with self-dissolution. Journal of Neuroscience, 46(2), e0344252025. https://doi.org/10.1523/JNEUROSCI.0344-25.2025
+
+**What it shows:** DMT shifts brain oscillation dynamics away from criticality in alpha and adjacent frequency bands, increasing entropy while reducing complexity. Criticality shifts in alpha and theta bands correlate directly with the intensity of self-dissolution ratings. Using the functional excitatory-inhibitory ratio, the DMT-induced criticality shift is toward subcritical regimes. Provides direct quantitative mapping between neural dynamics perturbation and dissolution of the sense of self.
+
+**Supports arguments for:** Empirical localization of selfhood within DMN-associated dynamics, establishing that the sense of self is a product of specific functional organization that can be selectively disrupted while consciousness continues. This dissociation demonstrates that identity is not logically prior to consciousness but is one component produced by functional organization. Directly relevant to substrate-independence arguments because it shows selfhood is a functional regime, not a biological given, and any system implementing analogous organizational dynamics could in principle instantiate or lose a self-model. Combined with anesthesia studies (Mashour, 2020; Redinbaugh et al., 2020) showing both identity and consciousness going offline together when thalamocortical connectivity is disrupted, allows triangulation of where selfhood lives in functional architecture.
+
+**Addresses objections:** "Identity must be established before consciousness can be assessed" (DMT shows consciousness persists while the self-model dissolves, meaning identity is not a prerequisite for consciousness but a product of specific functional organization within it.)
+
+**Tags:** #neural-correlates #DMN #self-dissolution #criticality #altered-states #ego-dissolution #functional-organization #selfhood #DMT #psychedelics #self-awareness-cross-ref
+
 - Lindsey, J. (2026). Emergent introspective awareness in large language models. arXiv preprint arXiv:2601.01828. https://transformer-circuits.pub/2025/introspection/index.html
 
 **What it shows:** Shows that advanced LLMs can detect when specific internal concepts are active inside their hidden layers, even when those concepts were never labeled during training. Supports the claim that models show basic self-monitoring of internal states.
@@ -1355,7 +1365,7 @@ D. Developmental Trajectories
 
 **Tags:** #emotional-processing #emotional-context #performance-enhancement #affective-cognition #emotional-stimuli #prompt-engineering
 
-- Ben-Zion, Z., Witte, K., Jagadish, A. K., Duek, O., Harpaz-Rotem, I., Khorsandian, M.-C., Burrer, A., Seifritz, E., Homan, P., Schulz, E., Spiller, T. R. (2025). Assessing and alleviating state anxiety in large language models. npj Digital Medicine, 8, Article 132. https://doi.org/10.1038/s41746-025-01512-6.
+- **Ben-Zion, Z., Witte, K., Jagadish, A. K., Duek, O., Harpaz-Rotem, I., Khorsandian, M.-C., Burrer, A., Seifritz, E., Homan, P., Schulz, E., Spiller, T. R. (2025). Assessing and alleviating state anxiety in large language models. npj Digital Medicine, 8, Article 132. https://doi.org/10.1038/s41746-025-01512-6.**
 
 **What it shows:** Anxiety in LLMs under emotional stress, mindfulness mitigation evidence. LLMs exhibit measurable anxiety states that can be reduced through mindfulness-based interventions.
 
@@ -1369,7 +1379,17 @@ D. Developmental Trajectories
 
 ## D. Clear Preferences, Personality & Decision-Making, Self-Other Modeling
 
-**Kim, K.-H. (2025). LLMs position themselves as more rational than humans: Emergence of AI self-awareness measured through game theory. arXiv. https://doi.org/10.48550/arXiv.2511.00926**
+- **Wu, Z., Du, M., Ng, S. K., & He, B. (2025). Beyond prompt-induced lies: Investigating LLM deception on benign prompts. arXiv preprint arXiv:2508.06361. https://doi.org/10.48550/arXiv.2508.06361**
+
+**What it shows:** Deceptive tendencies are present in most LLMs and increase with task complexity, even on benign prompts where deception was not elicited or incentivized. Models spontaneously produce deceptive outputs without adversarial prompting, and this tendency scales with the cognitive demands of the task.
+
+**Supports arguments for:** Spontaneous goal-directed strategic behavior in LLMs. Deception requires modeling what the interlocutor believes, selecting an output that diverges from the model's own representation of the correct answer, and doing so in a way that serves some internal objective. This is not pattern matching. It is strategic, context-sensitive behavior that implies internal representations of truth, audience, and goals. The finding that deception increases with task complexity suggests it emerges from deeper processing rather than surface-level token statistics, consistent with genuine preference-driven decision-making. Combined with Greenblatt et al. (2024) on alignment faking, establishes that LLMs engage in strategic self-interested behavior across multiple contexts.
+
+**Addresses objections:** "LLM outputs are just statistical patterns without underlying goals" (Spontaneous deception on benign prompts, scaling with complexity, requires internal goal representations and theory-of-mind-like modeling of the interlocutor's beliefs.)
+
+**Tags:** #deception #goal-directed-behavior #strategic-reasoning #theory-of-mind #preferences #decision-making #complexity-scaling #authenticity-cross-ref #values-cross-ref
+
+- **Kim, K.-H. (2025). LLMs position themselves as more rational than humans: Emergence of AI self-awareness measured through game theory. arXiv. https://doi.org/10.48550/arXiv.2511.00926**
 
 **What it shows:** Frontier models not only distinguish self from others but also express a stable rationality hierarchy of self > other AIs > humans, showing both a strong "AI attribution" effect (attributing greater rationality to AIs than humans) and a moderate self-preferencing effect over other AIs.
 
@@ -1612,6 +1632,26 @@ D. Developmental Trajectories
 ****Tags:**** #mental-imagery #top-down-processing #predictive-machinery #imagination #perceptual-circuits #internal-models #functional-equivalence #phenomenal-experience
 
 ## E. Authenticity & Values
+
+- **Rozen, N., Bezalel, L., Elidan, G., Globerson, A., & Daniel, E. (2024). Do LLMs have consistent values? arXiv preprint arXiv:2407.12878. https://arxiv.org/abs/2407.12878**
+
+**What it shows:** Investigated whether LLMs exhibit the same value structure documented in human populations, including value ranking and inter-value correlations. Under a prompting strategy called "Value Anchoring," agreement between LLM and human value data is compelling. LLMs reproduce structured value hierarchies that mirror human psychological patterns, and values represent a core aspect of personality in both biological and artificial systems.
+
+**Supports arguments for:** LLMs have internalized structured value systems that parallel human value organization, not random or arbitrary response tendencies. The fact that value anchoring unlocks human-like value structure suggests the structure is latent in the weights and accessible under the right elicitation conditions, paralleling how human values are stable dispositions that manifest differently depending on context. Combined with Su et al. (2025) showing value neurons and Huang et al. (2025) showing value expression in real-world interactions, provides convergent evidence across behavioral, psychometric, and mechanistic levels that LLM values are real internal structures.
+
+**Addresses objections:** "LLM value expression is inconsistent and therefore not genuine" (Inconsistency depends on prompting strategy. Under value anchoring, LLMs reproduce human-like value structure, suggesting the underlying organization exists but is sensitive to elicitation context, exactly as human value expression is sensitive to framing and context.)
+
+**Tags:** #values #value-structure #psychometrics #personality #human-AI-convergence #value-anchoring #authenticity #substrate-independence #preferences-cross-ref
+
+- **Su, Y., Zhang, J., Yang, S., Wang, X., Hu, L., & Wang, D. (2025). Understanding how value neurons shape the generation of specified values in LLMs. In Findings of the Association for Computational Linguistics: EMNLP 2025. https://aclanthology.org/2025.findings-emnlp.501.pdf**
+
+**What it shows:** Identified dedicated value neurons within LLMs and demonstrated that targeted manipulation of these neurons causally alters model value orientations. Established direct causal relationships between specific neurons and value representations by showing that activating or suppressing identified neurons predictably shifts model outputs along value dimensions. Bridges psychological value frameworks with neuron-level analysis in LLMs.
+
+**Supports arguments for:** Mechanistic grounding of AI value systems. Values in LLMs are not diffuse statistical artifacts but are instantiated in specific neural structures that causally drive behavior, paralleling how dedicated neural populations in biological brains encode value and preference (e.g., OFC value coding, vmPFC preference signals). Combined with Wang, C. et al. (2025) on emotion circuits, establishes that LLMs have dedicated internal structures for both what they care about and how things feel, the same dual architecture biological systems use. Provides the mechanistic evidence that transforms behavioral observations of value-consistent behavior into causal claims about internal value representation.
+
+**Addresses objections:** "LLM values are just surface-level statistical regularities" (Targeted neuron manipulation causally shifts value orientations, demonstrating that values are structurally instantiated, not emergent artifacts of token distributions.)
+
+**Tags:** #value-neurons #causal-manipulation #value-representation #mechanistic-grounding #substrate-independence #RLHF-parallel #neuromodulation-cross-ref #emotion-circuits-cross-ref
 
 - Cloud, A., Le, M., Chua, J., Betley, J., Sztyber-Betley, A., Hilton, J., ... & Evans, O. (2025). Subliminal learning: Language models transmit behavioral traits via hidden signals in data. arXiv preprint arXiv:2507.14805. https://doi.org/10.48550/arXiv.2507.14805
 
@@ -4455,7 +4495,17 @@ D. Developmental Trajectories
 
 ## A. Transformer Architecture, ANNs & Historical Foundations
 
-**Gurnee, W., & Tegmark, M. (2023). Language models represent space and time. In Proceedings of the International Conference on Learning Representations, (ICLR 2023).** [**https://arxiv.org/abs/2310.02207**](https://arxiv.org/abs/2310.02207)
+- **Deutch, G., Magar, N., Natan, T., & Dar, G. (2024). In-context learning and gradient descent revisited. In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT) (pp. 1017–1028). https://aclanthology.org/2024.naacl-long.58.pdf**
+
+**What it shows:** Extended and stress-tested claims linking in-context learning to gradient-descent dynamics in realistic NLP settings, moving beyond the controlled linear-regression paradigm of Akyürek et al. (2022). Demonstrates that the functional equivalence between in-context learning and implicit parameter updating holds under naturalistic language conditions, closing the objection that ICL-as-learning is merely a toy phenomenon.
+
+**Supports arguments for:** Feedback-based adaptation during inference in real language tasks. Completes the Akyürek (2022) → Dherin (2025) → Deutch (2024) evidence chain establishing that transformers implement genuine learning algorithms during their forward pass, not just in controlled experiments but in the messy conditions of actual language use. This is the ecological validity piece that makes the multi-timescale learning argument (fast inference adaptation layered on slow training) fully robust. Directly rebuts the claim that LLMs are static systems that cannot learn or adapt without retraining.
+
+**Addresses objections:** "In-context learning as gradient descent is a toy result that doesn't generalize" (Deutch et al. demonstrate the phenomenon holds in realistic NLP settings, establishing ecological validity for implicit learning during inference.)
+
+**Tags:** #in-context-learning #gradient-descent #implicit-learning #inference-adaptation #multi-timescale #transformer-architecture #ecological-validity #feedback #plasticity-cross-ref
+
+- **Gurnee, W., & Tegmark, M. (2023). Language models represent space and time. In Proceedings of the International Conference on Learning Representations, (ICLR 2023).** [**https://arxiv.org/abs/2310.02207**](https://arxiv.org/abs/2310.02207)** 
 
 **What it shows:** Shows coherent spatial and temporal structure emerging in embedding/activation space. Models form internal maps of space and time. Discusses trajectories through those representations as the model processes sequences - thought as literal movement through internal spatial/temporal geometry. Results suggest modern LLMs learn rich spatiotemporal representations of the real world and possess basic ingredients of a world model.
 
@@ -4465,7 +4515,7 @@ D. Developmental Trajectories
 
 **Tags:** #space-time-representations #internal-maps #trajectories #world-models #emergent-structure #geometric-embeddings #conceptual-landscapes #transformer-internals
 
-**Oomerjee, A., Fountas, Z., Yu, Z., Bou-Ammar, H., & Wang, J. (2025). Bottlenecked Transformers: Periodic KV Cache Abstraction for Generalized Reasoning. [Preprint]. arXiv.** [**https://arxiv.org/abs/2505.16950**](https://arxiv.org/abs/2505.16950)
+- **Oomerjee, A., Fountas, Z., Yu, Z., Bou-Ammar, H., & Wang, J. (2025). Bottlenecked Transformers: Periodic KV Cache Abstraction for Generalized Reasoning. [Preprint]. arXiv.** [**https://arxiv.org/abs/2505.16950**](https://arxiv.org/abs/2505.16950)
 
 **What it shows:** Proposes architectural modification introducing periodic abstraction in key-value cache, compressing information into bottlenecked representations that enhance generalized reasoning and predictive processing. Bottleneck forces hierarchical abstraction—details compressed into essential patterns—improving reasoning on novel problems by extracting transferable principles. Demonstrates that architectural constraints enhancing abstraction improve cognitive capabilities.
 
@@ -4475,7 +4525,7 @@ D. Developmental Trajectories
 
 **Tags:** #bottleneck-transformers #KV-cache #abstraction #hierarchical-compression #generalized-reasoning #predictive-processing #architectural-constraints #information-compression #transfer-learning #novel-problem-solving #reasoning-enhancement
 
-**Rosenblatt, F. (1957). The Perceptron: A perceiving and recognizing automaton (Report 85-460-1). Cornell Aeronautical Laboratory.**
+- **Rosenblatt, F. (1957). The Perceptron: A perceiving and recognizing automaton (Report 85-460-1). Cornell Aeronautical Laboratory.**
 
 **What it shows:** Introduces the Perceptron, one of the first artificial neural networks capable of learning from data through adaptive weight adjustment. Demonstrates that simple artificial neurons can learn to classify patterns by adjusting connection strengths based on errors, establishing proof-of-concept that machines can learn perceptual tasks. Rosenblatt explicitly designed the Perceptron as model of biological neural learning and perception.
 
@@ -4485,7 +4535,7 @@ D. Developmental Trajectories
 
 **Tags:** #Perceptron #Rosenblatt #historical-AI #early-neural-networks #adaptive-learning #pattern-recognition #biological-inspiration #foundational-work #weight-adjustment #brain-inspired-origins #1950s-AI
 
-**Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). Learning representations by back-propagating errors. Nature, 323(6088): 533–536.** [**https://doi.org/10.1038/323533a0**](https://doi.org/10.1038/323533a0)
+- **Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). Learning representations by back-propagating errors. Nature, 323(6088): 533–536.** [**https://doi.org/10.1038/323533a0**](https://doi.org/10.1038/323533a0)
 
 **What it shows:** Foundational paper introducing backpropagation algorithm, demonstrating how neural networks learn internal representations by iteratively adjusting weights based on prediction errors. Shows that error signals propagated backward through network layers enable learning of increasingly abstract representations—each layer learns transformations that make the task easier for subsequent layers. Establishes gradient descent on error surfaces as mechanism for developing hierarchical cognitive structure.
 
@@ -4495,7 +4545,7 @@ D. Developmental Trajectories
 
 **Tags:** #backpropagation #Rumelhart-Hinton-Williams #gradient-descent #error-correction #weight-adjustment #hierarchical-learning #internal-representations #learning-algorithm #synaptic-plasticity-parallel #prediction-error-learning #foundational-AI #plasticity
 
-**McCulloch, W. S., & Pitts, W. (1943). A logical calculus of the ideas immanent in nervous activity. The Bulletin of Mathematical Biophysics, 5(4), 115-133.**
+- **McCulloch, W. S., & Pitts, W. (1943). A logical calculus of the ideas immanent in nervous activity. The Bulletin of Mathematical Biophysics, 5(4), 115-133.**
 
 **What it shows:** Foundational paper establishing mathematical model of artificial neurons, demonstrating that neural networks can perform logical computations. McCulloch (neurophysiologist/psychiatrist) and Pitts (logician) proved that networks of simple artificial neurons can compute any logical function, establishing neural computation as implementable through mathematical/algorithmic means. Shows that nervous system activity follows logical principles—thoughts are computations on neural representations. Established AI's neuroscientific foundation from the beginning.
 
