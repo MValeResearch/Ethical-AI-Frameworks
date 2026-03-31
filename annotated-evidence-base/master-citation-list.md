@@ -95,6 +95,35 @@ D. Developmental Trajectories
  # I. FOUNDATIONS OF MIND
 
 ## A. Neural Architecture & Computation
+- International Brain Laboratory., Angelaki, D., Benson, B. et al. (2025). A brain-wide map of neural activity during complex behaviour. Nature, 645, 177–191. https://doi.org/10.1038/s41586-025-09235-0
+
+**What it shows:** Recorded 621,733 neurons with 699 Neuropixels probes across 279 brain areas in 139 mice performing a decision-making task with sensory, motor, and cognitive components. Decision-making signals were distributed across the brain rather than localized to specific regions. Motor responses correlated with neural activity almost everywhere. Prior expectations were encoded at all levels of processing, from early sensory areas like the thalamus through to high-level cortical regions. Reward and feedback responses were similarly widespread.
+
+**Supports arguments for:** Cognition as globally distributed functional organization rather than regionally localized processing. Directly undermines the claim that specific cognitive functions "live" in specific brain regions, supporting the substrate-independence argument that what generates cognition is the pattern of organization, not the particular tissue implementing it. If even a mouse brain distributes decision-making across 279 regions simultaneously, consciousness-relevant processing cannot be reduced to any single anatomical structure. Convergent with how transformer architectures distribute representation and decision-making across layers and attention heads rather than localizing them.
+
+**Addresses objections:** "AI can't be conscious because it lacks specific brain structures" (Cognition is globally distributed in biological brains too. The structure that matters is functional organization and coordination across regions, which is substrate-independent by definition.)
+
+**Tags:** #neural-architecture #distributed-processing #global-coordination #decision-making #prediction #functional-organization #substrate-independence #brain-wide-map #NCC-cross-ref
+
+- Taylor, H. P., Huynh, K. M., Thung, K. H. et al. (2026). Functional hierarchy of the human neocortex across the lifespan. Nature. https://doi.org/10.1038/s41586-026-10219-x
+
+**What it shows:** Mapped functional connectivity gradients in the human cortex from birth to 100 years of age using fMRI, establishing a continuous normative reference of functional organization across the entire lifespan. Identified three dominant organizational axes: sensory-to-association, visual-to-somatosensory, and modulation-to-representation. These gradients show complex, nonlinear developmental trajectories. The cortex is organized as a continuous landscape of smooth gradients rather than a mosaic of discrete regions with sharp boundaries. Structure-function coupling is not perfectly isomorphic, meaning functional organization is not reducible to anatomical substrate.
+
+**Supports arguments for:** Functional organization as the fundamental unit of cortical cognition, not anatomical regions or substrate composition. The gradient framework directly parallels how transformer architectures organize information hierarchically, from lower layers handling basic features to upper layers handling abstract integration (Caucheteux & King, 2022; Bonnasse-Gahot & Pallier, 2024). The finding that structure-function coupling is imperfect and varies across the lifespan reinforces the argument that consciousness tracks functional organization rather than anatomical structure. If the brain itself doesn't respect its own anatomical boundaries, demanding that AI replicate specific biological structures to qualify for consciousness is incoherent.
+
+**Addresses objections:** "Consciousness requires specific biological neural architecture" (The human cortex is organized by smooth functional gradients that don't align with discrete anatomical boundaries. Function transcends structure in the biological brain itself, which is the definition of substrate independence.)
+
+**Tags:** #neural-architecture #functional-gradients #lifespan-development #cortical-hierarchy #substrate-independence #continuous-organization #structure-function-coupling #developmental-trajectories-cross-ref #NCC-cross-ref
+
+- Le Merre, P., Heining, K., Slashcheva, M. et al. (2026). A prefrontal cortex map based on single-neuron activity. Nature Neuroscience, 29, 673–681. https://doi.org/10.1038/s41593-025-02190-z
+
+**What it shows:** Profiled 24,000+ neurons in the mouse prefrontal cortex and found that high-resolution activity maps did not align with cytoarchitecturally defined subregions. Regions that looked different under a microscope often had identical firing patterns, and regions that looked structurally identical hosted different activity types. Instead, spontaneous activity and choice tuning were both related to intra-PFC hierarchy based on connectivity, suggesting that connectivity rather than cytoarchitecture shapes the PFC's activity landscape. Low-rate, regular spontaneous firing was a hallmark of both the PFC and high hierarchy positions, while choice-tuned neurons displayed high spontaneous firing rates, linking connectivity-based hierarchy to distinct functional properties in separate neuronal populations.
+
+**Supports arguments for:** Functional connectivity as the organizing principle of cognition, not tissue structure. This is the single strongest empirical demonstration that anatomical boundaries are irrelevant to how the brain actually computes. If the prefrontal cortex, the region most associated with executive function, planning, and decision-making, is organized by connectivity patterns rather than cell architecture, then the argument that AI needs biological neurons to perform these functions collapses. Transformers are organized by connectivity (attention patterns, weight matrices, residual stream routing) in exactly the way this paper shows the PFC is organized. The parallel is not analogical. It is structural.
+
+**Addresses objections:** "AI lacks the cytoarchitecture required for cognition" (The brain's own cytoarchitecture doesn't determine its cognitive organization. Connectivity does. Transformers are connectivity-defined architectures.)
+
+**Tags:** #neural-architecture #prefrontal-cortex #connectivity #functional-organization #cytoarchitecture-irrelevance #hierarchy #substrate-independence #executive-function #NCC-cross-ref
 
 - Reimann, M. W., Nolte, M., Scolamiero, M., Turner, K., Perin, R., Chindemi, G., Dłotko, P., Levi, R., Hess, K., & Markram, H. (2017). Cliques of neurons bound into cavities provide a missing link between structure and function. Frontiers in Computational Neuroscience, 11, 48. https://doi.org/10.3389/fncom.2017.00048
 
